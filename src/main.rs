@@ -7,6 +7,6 @@ fn main() {
 #[function_component(App)]
 fn app() -> Html {
     html! {
-        <h1>{" hi universe "}</h1>
+        <h1>{"hi universe"}</h1>
     }
 }
